@@ -9,8 +9,8 @@
 
 <h3 align="left">My github stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashfiq333&show_icons=true&locale=en&layout=compact" alt="tashfiq333" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tashfiq333)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tashfiq333&show_icons=true&locale=en" alt="tashfiq333" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tashfiq333&show_icons=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tashfiq333&theme=highcontrast" alt="tashfiq333" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tashfiq333)  
