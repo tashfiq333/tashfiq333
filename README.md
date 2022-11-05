@@ -8,7 +8,7 @@
 <h3 align="left">My github stats:</h3>
 
 <p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tashfiq333's streak" src="[http://github-readme-streak-stats.herokuapp.com?user=tashfiq333&theme=chartreuse-dark&hide_border=true&bg_color=transparent](https://github-readme-stats.vercel.app/api?username=tashfiq333&show_icons=true)"/>
+	<img alt="tashfiq333's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tashfiq333"/>
 	<img  alt="tashfiq333's streak" src="https://github-readme-stats.vercel.app/api?username=tashfiq333&show_icons=true"/>
 </p>
 <p align="center">
