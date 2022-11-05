@@ -1,3 +1,4 @@
+<p align="center" width="10%"> <img src="https://cdn.dribbble.com/users/363821/screenshots/3329508/media/c6bcd3e0db9e5d03fa06c3aef5d5ef2f.gif" alt=""></p>
 <h1 align="center">Hi 👋, I'm Tashfiq Nahiyan Khan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashfiq333&label=Profile%20views&color=0e75b6&style=plastic" alt="tashfiq333" /> </p>
 
@@ -10,7 +11,9 @@
 <h3 align="left">My github stats:</h3>
 
 <p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tashfiq333's streak" src="http://github-readme-streak-stats.herokuapp.com?user=tashfiq333&theme=chartreuse-dark&hide_border=true&bg_color=transparent"/>
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tashfiq333's streak" src="[http://github-readme-streak-stats.herokuapp.com?user=tashfiq333&theme=chartreuse-dark&hide_border=true&bg_color=transparent](https://github-readme-stats.vercel.app/api?username=tashfiq333&show_icons=true)"/>
 	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tashfiq333's streak" src="http://github-readme-streak-stats.herokuapp.com?user=tashfiq333&theme=gruvbox_duo&hide_border=true&bg_color=transparent"/>
 </p>
+<p align="center">
  <img width="40%" alt="Github Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashfiq333&theme=transparent&layout=compact&hide_border=true&title_color=38E54D">
+</p>
