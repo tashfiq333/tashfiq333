@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tashfiq Nahiyan Khan</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashfiq333&label=Profile%20views&color=0e75b6&style=flat" alt="tashfiq333" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashfiq333&label=Profile%20views&color=0e75b6&style=plastic" alt="tashfiq333" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,3 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashfiq333&show_icons=true&locale=en&layout=compact" alt="tashfiq333" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tashfiq333&show_icons=true&locale=en" alt="tashfiq333" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tashfiq333&theme=highcontrast" alt="tashfiq333" /></p>
